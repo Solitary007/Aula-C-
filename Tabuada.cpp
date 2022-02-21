@@ -5,7 +5,7 @@ using namespace std;
 int main (){
 	float num, res, contador;
 	contador=0;
-	cout <<"Qual o numero que você deseja saber a tabuada? ";
+	cout <<"Qual o numero que vocÃª deseja saber a tabuada? ";
 	cin >>num;
 	
 	while (contador<=10){
