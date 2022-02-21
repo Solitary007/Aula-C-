@@ -12,9 +12,9 @@ int main()
 
   char continua='S';
 
-  cout <<"*** Cardápio ***\n";
+  cout <<"*** CardÃ¡pio ***\n";
 
-  cout <<"100 - Hambúrguer - R$5,50\n";
+  cout <<"100 - HambÃºrguer - R$5,50\n";
 
   cout <<"101 - Cachorro-quente - R$4,50\n";
 
@@ -24,7 +24,7 @@ int main()
 
   cout <<"104 - Cheeseburguer - R$8,50\n";
 
-  cout <<"Informe o código do seu pedido: ";
+  cout <<"Informe o cÃ³digo do seu pedido: ";
 
   cin >>codigo;
 
@@ -72,7 +72,7 @@ int main()
 
       default:
 
-      cout <<"Pedido inválido!";
+      cout <<"Pedido invÃ¡lido!";
 
     }
 
@@ -84,9 +84,9 @@ int main()
 
     {
 
-      cout <<"*** Cardápio ***\n";
+      cout <<"*** CardÃ¡pio ***\n";
 
-      cout <<"100 - Hambúrguer - R$5,50\n";
+      cout <<"100 - HambÃºrguer - R$5,50\n";
 
       cout <<"101 - Cachorro-quente - R$4,50\n";
 
@@ -96,7 +96,7 @@ int main()
 
       cout <<"104 - Cheeseburguer - R$8,50\n";
 
-      cout <<"Informe o código do seu pedido: ";
+      cout <<"Informe o cÃ³digo do seu pedido: ";
 
       cin >>codigo;
 
